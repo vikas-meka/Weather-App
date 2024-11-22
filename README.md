@@ -1,2 +1,2 @@
 # Weather-App
-A responsive weather app built with ReactJS that provides real-time city weather data from OpenWeatherMap API, with error handling for invalid searches.
+a responsive and interactive weather application using ReactJS, CSS, and JSX. The app provides real-time weather data, including temperature and wind speed, by fetching information from the OpenWeatherMap API. It allows users to search for cities, displaying relevant weather details, and shows an error message if an invalid city is entered. The application features a user-friendly UI with attractive icons and smooth navigation.
